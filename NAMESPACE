@@ -1,0 +1,5 @@
+import("RNetCDF")
+export(AggregateFireFracs, AggregateVegFracs, ReportMeanVegChanges, 
+       SaveFireAreaFracs, SaveFireProbabilityMultipliers, SaveMatrix,
+       SaveRatios, SaveSequence, SaveVegChangeProbabilityMultipliers,
+       SaveVegFracs, VegTypeChanges, VTnames)
